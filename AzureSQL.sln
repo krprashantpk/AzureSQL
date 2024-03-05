@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSQL.WebApi", "AzureSQL.WebApi\AzureSQL.WebApi.csproj", "{8E2C5682-0A43-402F-96E7-B31D4C7940D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSQL.Data", "AzureSQL.Data\AzureSQL.Data.csproj", "{648CE79E-EB2B-48D2-AF4C-E5EAF7A5F5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2C5682-0A43-402F-96E7-B31D4C7940D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2C5682-0A43-402F-96E7-B31D4C7940D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2C5682-0A43-402F-96E7-B31D4C7940D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2C5682-0A43-402F-96E7-B31D4C7940D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648CE79E-EB2B-48D2-AF4C-E5EAF7A5F5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648CE79E-EB2B-48D2-AF4C-E5EAF7A5F5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648CE79E-EB2B-48D2-AF4C-E5EAF7A5F5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648CE79E-EB2B-48D2-AF4C-E5EAF7A5F5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
